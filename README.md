@@ -1,36 +1,37 @@
 # Economic-Hardship-Among-Stduents--SPSS-case-Study
 
-📌 Context
+## Overview
+This project is presented as a **statistical analysis case study** conducted using SPSS.
+The analysis was carried out as part of an academic research project, where my role focused on
+data preparation, statistical analysis, and interpretation of results.
 
-This analysis was conducted as part of a final year research project supervised by a lecturer.
-My role was to support the project through data cleaning, statistical analysis, and interpretation using SPSS.
+## My Contribution
+I was responsible for:
+- Cleaning and recoding survey data
+- Handling missing values
+- Running descriptive statistics
+- Conducting reliability analysis
+- Performing inferential analyses (e.g., correlation)
+- Supporting interpretation of statistical outputs
 
-👩🏽‍💻 My Contribution
+## Tools Used
+- SPSS
+- Excel
 
-I personally handled:
-1. Data cleaning and recoding
-2. Descriptive statistics
-3. Reliability analysis
-4. Answering Research Objectives
-5. Output interpretation support
+## Analysis Workflow
+1. Data cleaning and recoding of variables
+2. Preliminary descriptive analysis
+3. Reliability testing of scales (Cronbach’s alpha)
+4. Inferential analysis to examine relationships between variables
 
-I was not the primary author of the final research report.
+## Outputs
+The `outputs/` folder contains selected screenshots of SPSS output tables,
+including descriptive statistics, reliability analysis, and correlation results.
 
-🧰 Tools Used
+## Data Availability
+The dataset used in this analysis is not publicly shared due to academic
+and ethical restrictions.
 
-1.SPSS
-2. Excel
-
-📊 Analysis Performed
-
-1. Frequency and percentage tables
-2. Cross-tabulations
-3. Reliability tests
-
-📁 Data Availability
-
-The original dataset is not publicly shared due to academic and ethical restrictions.
-
-📌 Current Status
-
-This portfolio entry is presented as a methodological case study to demonstrate applied SPSS skills.
+## Project Status
+This case study is presented for portfolio purposes to demonstrate applied
+SPSS skills and statistical reasoning.
